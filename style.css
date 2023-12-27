@@ -41,9 +41,10 @@ body{
     background: linear-gradient(170deg, rgba(18,18,80,0.8),white);
     font-weight: 600;
     cursor: pointer;
+}
+.container button:hover{
     background: linear-gradient(170deg,white, rgba(18,18,80,0.8));
 }
-
 #imgBox{
     display: none;
     justify-content: center;
