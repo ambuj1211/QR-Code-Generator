@@ -45,7 +45,7 @@ body{
 }
 
 #imgBox{
-    display: flex;
+    display: none;
     justify-content: center;
     position: relative;
     left: 20%;
