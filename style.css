@@ -47,9 +47,8 @@ body{
 }
 #imgBox{
     display: none;
-    justify-content: center;
     position: relative;
-    left: 20%;
+    left: 10%;
     width: 180px;
     aspect-ratio: 1/1;
     margin: 0 0 20px 0;
